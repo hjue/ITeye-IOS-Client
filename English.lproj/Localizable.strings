@@ -1,0 +1,175 @@
+/* 
+   Localizable.strings
+   JavaEye
+
+   Created by ieliwb on 10-5-31.
+   Copyright 2010 ieliwb.com. All rights reserved.
+ */
+
+/* Common */
+"back"="Back";
+"cancel"="Cancel";
+"edit"="Edit";
+"done"="Done";
+"save"="Save";
+"send"="Send";
+"loading"="Loading...";
+"connecting"="Connecting...";
+"ok"="OK";
+"select_what_to_do"="Please select";
+"web_connect_error"="Network connection fails, please try again later.";
+
+/* Error */
+"error_auth_fail"="Login failed! Please check your username and password";
+"error_auth_over"="Log number of errors too, please try again later!";
+"error_api_over"="Excessive number of requests, please try again later!";
+
+/* Login */
+"username_input"="Please enter a user name";
+"password_input"="Please enter your password";
+"register_remind"="register:http://www.iteye.com/signup";
+"login_fail"="Login fail";
+"username_empty"="User name can not be empty";
+"password_empty"="Please enter your password";
+"logining"="Login...";
+"register"="Register";
+"login"="Login";
+"guest"="Guest";
+"login_title"="Sign in";
+"auto_login"="Auto Login";
+
+/* Tabbar And Navigation */
+"news_title"="News";
+"news_nav_title"="ITEye News";
+"chat_title"="Chat";
+"chat_nav_title"="Chat";
+"msg_title"="Message";
+"msg_nav_title"="My Messages";
+"link_title"="Links";
+"link_nav_title"="My Links";
+"more_title"="More";
+"more_nav_title"="More";
+
+/* Browser */
+"browser_pre"="Pre";
+"browser_reload"="Reload";
+"browser_stop"="Stop";
+"browser_next"="Next";
+
+"open_safair"="Open in safair";
+"push_chat"="Push To Chat";
+"add_link"="Add To Links";
+"email_friends"="Email To Friends";
+
+"push_chat_tpl"="Haha, recommend an excellent article:\n%@";
+"send_email_title_tpl"="Hot Articles Recommended";
+"send_email_body_tpl"="Haha, recommend an excellent article:\n%@";
+
+
+/* More */
+"manual_title"="Software Manual";
+
+"about"="About Me";
+"about_name"="App Name";
+"about_version"="Version";
+"about_author"="Author";
+"about_email"="Email";
+"about_url"="Developer";
+"about_feedback"="Feedback(Open Email)";
+"about_goto_blog"="Read the ieliwb Blog";
+"about_follow_twitter"="Follow me on Twitter";
+
+"system_setting"="Settings";
+"logout"="Exit";
+"soft_manual"="Help";
+"soft_about"="About";
+"soft_feedback"="Feedback";
+"soft_author_blog"="Blog";
+
+"logout_confirm"="logout?";
+"logout_ok"="logout";
+
+"feedback_title_tpl"="ITEye-iPhone Client Feedback";
+
+/* Links */
+"links_table_title"="%d Urls Collected";
+"links_delete_error"="Favorite Failed to delete server synchronization";
+
+"links_add"="Add new link";
+"links_edit"="Edit link";
+
+"links_title"="Link Title";
+"links_url"="Link URL";
+"links_category"="Link Category";
+"links_dec"="Link Desc";
+
+"links_exit_confirm"="exit?";
+"links_edit_continue"="Edit Continue";
+"links_save"="Save Link";
+"links_exit_ok"="Exit";
+
+"links_save_error_title"="Save Fail";
+"links_save_error_msg"="title,URL must not be empty";
+
+
+/* msg send */
+"msg_status"="%@ send:%@ ";
+
+"msg_reply"="Reply";
+"msg_forward"="Forward";
+"msg_new"="New Msg";
+
+"msg_receiver"="Receiver";
+"msg_subject"="Title";
+"msg_body"="Body";
+
+"msg_exit_confirm"="Exit?";
+"msg_edit_continue"="Edit Continue";
+"msg_save"="Send Msg";
+"msg_exit_ok"="Exit";
+
+"msg_save_error_title"="Send Msg Fail";
+"msg_save_error_msg"="Receiver,Title,Body must not empty";
+
+"msg_view_title"="Msg Detail";
+"msg_delete_error"="Failed to delete server synchronization message";
+
+/* Chat */
+"chat_list"="Follow";
+"chat_my"="My";
+"chat_replies"="@Me";
+"chat_all"="All";
+
+"chat_new"="New Chat";
+"chat_location"="Location";
+"chat_empty"="Empty";
+"chat_search_location"="search location...";
+"chat_search_location_error"="search location fail.";
+"chat_location_tpl"="%@ haha,I'm Here:http://maps.google.com/maps?q=%f,%f";
+
+"chat_exit_confirm"="Exit?";
+"chat_edit_continue"="Edit Continue";
+"chat_save"="Send Chat";
+"chat_exit_ok"="Exit";
+
+"chat_save_error_title"="Not allowed to send a Chat";
+"chat_save_error_empty_msg"="Message text can not be empty";
+"chat_save_error_full_msg"="Message text can not exceed 140 words";
+
+/* News */
+"load_all_title"="\nRefresh all data can be read off-line news. \ N \ n refresh the front of the recall, haha\n\n";
+"load_all_ok"="Refresh all source now";
+"load_all_start"="Start!";
+"load_all_status"="Refresh:";
+"load_all_end"="Finish!";
+"load_all_clean"="Cleaning up!";
+
+"news_detail"="News Detail";
+"news_push_chat_tpl"="haha,Recommend a hot article:\n%@\n%@";
+"news_send_email_title_tpl"="Recommend a hot article";
+"news_send_email_body_tpl"="haha,Recommend a hot article:\n%@\n%@";
+
+/* refresh */
+"last_refresh"="Last Updated: %@";
+"refresh_release"="Release to refresh...";
+"refresh_pulldown"="Pull down to refresh...";

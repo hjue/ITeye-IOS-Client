@@ -1,0 +1,175 @@
+/* 
+   Localizable.strings
+   JavaEye
+
+   Created by ieliwb on 10-5-31.
+   Copyright 2010 ieliwb.com. All rights reserved.
+ */
+
+/* Common */
+"back"="返回";
+"cancel"="取消";
+"edit"="编辑";
+"done"="完成";
+"save"="保存";
+"send"="发送";
+"loading"="载入中...";
+"connecting"="连接中...";
+"ok"="确定";
+"select_what_to_do"="请选择需要的操作";
+"web_connect_error"="网络连接失败,请稍后再试.";
+
+/* Error */
+"error_auth_fail"="登录失败! 请核对用户名和密码";
+"error_auth_over"="登录错误次数过多, 请稍后再试!";
+"error_api_over"="请求次数过多,请稍后再试!";
+
+/* Login */
+"username_input"="请输入用户名";
+"password_input"="请输入用户密码";
+"register_remind"="非会员请到http://www.iteye.com/signup注册,确认后将退出程序,打开Safair浏览器注册";
+"login_fail"="登录失败";
+"username_empty"="用户名不能为空";
+"password_empty"="请输入用户密码";
+"logining"="登录中...";
+"register"="注册";
+"login"="登录";
+"guest"="游客";
+"login_title"="用户登录";
+"auto_login"="自动登录";
+
+/* Tabbar And Navigation */
+"news_title"="新闻";
+"news_nav_title"="ITeye新闻资讯";
+"chat_title"="闲聊";
+"chat_nav_title"="闲聊";
+"msg_title"="短信";
+"msg_nav_title"="我的短信";
+"link_title"="收藏";
+"link_nav_title"="我的收藏夹";
+"more_title"="更多";
+"more_nav_title"="更多";
+
+/* Browser */
+"browser_pre"="后退";
+"browser_reload"="重载";
+"browser_stop"="停止";
+"browser_next"="前进";
+
+"open_safair"="浏览器中打开";
+"push_chat"="推送到闲聊";
+"add_link"="添加到收藏夹";
+"email_friends"="Email推荐给朋友";
+
+"push_chat_tpl"="哈哈,推荐一篇精彩文章:\n%@";
+"send_email_title_tpl"="精彩文章推荐";
+"send_email_body_tpl"="哈哈,推荐一篇精彩文章:\n%@";
+
+
+/* More */
+"manual_title"="软件使用说明书";
+
+"about"="关于本软件";
+"about_name"="软件名称";
+"about_version"="软件版本";
+"about_author"="软件作者";
+"about_email"="联系作者";
+"about_url"="技术支持";
+"about_feedback"="意见建议反馈(打开Email)";
+"about_goto_blog"="打开开发者博客";
+"about_follow_twitter"="跟踪开发者微薄(Twitter)";
+
+"system_setting"="系统设置";
+"logout"="退出登录";
+"soft_manual"="使用说明";
+"soft_about"="关于软件";
+"soft_feedback"="意见反馈";
+"soft_author_blog"="作者博客";
+
+"logout_confirm"="确定退出本帐号吗?";
+"logout_ok"="退出";
+
+"feedback_title_tpl"="ITEye-iPhone客户端-使用反馈";
+
+/* Links */
+"links_table_title"="已收藏%d个网址";
+"links_delete_error"="同步删除服务器收藏失败";
+
+"links_add"="添加新链接收藏";
+"links_edit"="编辑收藏";
+
+"links_title"="链接标题";
+"links_url"="链接地址";
+"links_category"="链接分类";
+"links_dec"="链接简介";
+
+"links_exit_confirm"="编辑收藏离开确认";
+"links_edit_continue"="继续修改";
+"links_save"="保持收藏";
+"links_exit_ok"="放弃离开";
+
+"links_save_error_title"="保存收藏失败";
+"links_save_error_msg"="标题,URL不能为空";
+
+
+/* msg send */
+"msg_status"="%@发送于%@ ";
+
+"msg_reply"="回复";
+"msg_forward"="转发";
+"msg_new"="新站内信";
+
+"msg_receiver"="收信人";
+"msg_subject"="标题";
+"msg_body"="正文";
+
+"msg_exit_confirm"="编辑离开确认";
+"msg_edit_continue"="继续修改";
+"msg_save"="发送邮件";
+"msg_exit_ok"="放弃离开";
+
+"msg_save_error_title"="发送邮件失败";
+"msg_save_error_msg"="收件人,标题,正文不能为空";
+
+"msg_view_title"="站内信正文";
+"msg_delete_error"="同步删除服务器短信失败";
+
+/* Chat */
+"chat_list"="我关注的";
+"chat_my"="我的闲聊";
+"chat_replies"="@我的";
+"chat_all"="全站闲聊";
+
+"chat_new"="发布新闲聊";
+"chat_location"="位置";
+"chat_empty"="清空";
+"chat_search_location"="正在获取地理位置...";
+"chat_search_location_error"="获取失败,请重试.";
+"chat_location_tpl"="%@ 哈哈,看看我现在在哪:http://maps.google.com/maps?q=%f,%f";
+
+"chat_exit_confirm"="离开确认";
+"chat_edit_continue"="继续修改";
+"chat_save"="发送闲聊";
+"chat_exit_ok"="放弃离开";
+
+"chat_save_error_title"="不允许发送消息";
+"chat_save_error_empty_msg"="消息文字不可以为空";
+"chat_save_error_full_msg"="消息文字不可以超过140字";
+
+/* News */
+"load_all_title"="\n刷新所有数据后可以离线阅读新闻.\n\n出门前记得刷新下,嘎嘎\n\n";
+"load_all_ok"="一键刷新所有源";
+"load_all_start"="现在开始!";
+"load_all_status"="正在刷新:";
+"load_all_end"="完成!";
+"load_all_clean"="Cleaning up!";
+
+"news_detail"="新闻正文";
+"news_push_chat_tpl"="哈哈,推荐一篇精彩文章:\n%@\n%@";
+"news_send_email_title_tpl"="精彩文章推荐";
+"news_send_email_body_tpl"="哈哈,推荐一篇精彩文章:\n%@\n%@";
+
+/* refresh */
+"last_refresh"="最后刷新日期: %@";
+"refresh_release"="松开开始刷新...";
+"refresh_pulldown"="下拉可以刷新...";
